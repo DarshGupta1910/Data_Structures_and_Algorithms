@@ -5,4 +5,4 @@
 <h2> If you have taken this course on Udemy then I request you to contribute to this repository by adding your coding solutions</h2> 
 
 <h3> I'm following this course and will keep adding the question's solutions as soon as I cmoplete the lecture.</h3>
-  <h3> I'm expecting to complete this course by the end of July </h3>
+  <h3> I'm expecting to complete this course by the end of July, 2021 </h3>
