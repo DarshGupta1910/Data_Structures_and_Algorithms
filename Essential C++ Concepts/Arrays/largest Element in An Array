@@ -1,0 +1,61 @@
+/*  C++ Program to find Largest Element in an Array  */
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+    int i,a[50],size;
+    cout<<"Enter array size( Max:50 ) :: ";
+    cin>>size;
+        cout<<"\nEnter array elements :: \n";
+
+        for(i=0; i<size; i++)
+        {
+            cout<<"\nEnter arr["<<i<<"] Element :: ";
+                cin>>a[i];
+        }
+
+  cout<<"\nStored Data in Array :: \n\n";
+
+  for(i=0;i<size;i++)
+  {
+  cout<<" "<<a[i]<<" ";
+  }
+
+    int  largest=a[0];
+
+        for (i=0;i<size;i++)
+    {
+                if(a[i]>largest)
+                {
+                        largest=a[i];
+                }
+        }
+        cout<<"\n\nLargest Element in an Array :: "<<largest<<endl;
+
+        return 0;
+}
+
+// ------------------ Output ---------------------------------- 
+
+Enter array size( Max:50 ) :: 5
+
+Enter array elements :: 
+
+Enter arr[0] Element :: -1   
+
+Enter arr[1] Element :: 2
+
+Enter arr[2] Element :: -5
+
+Enter arr[3] Element :: 5
+
+Enter arr[4] Element :: 10
+
+Stored Data in Array :: 
+
+ -1  2  -5  5  10 
+
+Largest Element in an Array :: 10
