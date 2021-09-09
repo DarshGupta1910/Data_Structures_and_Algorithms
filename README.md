@@ -2,7 +2,5 @@
 
 <h3> I have also added student excersice which are my solutions to the given lectures problems </h3> 
 
-<h2> If you have taken this course on Udemy then I request you to contribute to this repository by adding your coding solutions</h2> 
-
 <h3> I'm following this course and will keep adding the question's solutions as soon as I cmoplete the lecture.</h3>
 
