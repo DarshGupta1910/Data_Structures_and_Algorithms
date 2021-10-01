@@ -1,4 +1,3 @@
-// ans is 91 
 #include <stdio.h>
 int fun(int n)
 {
@@ -13,3 +12,4 @@ int main()
  printf("%d\n",r);
  return 0;
 }
+// ans is 91 
